@@ -8,7 +8,7 @@
 
 - [FREE_CODE_CAMP](https://www.youtube.com/watch?v=bC7o8P_Ste4)
 
-- [SABBIR_BHAI](https://drive.google.com/file/d/1UFCLr2uAPhx8v6NwEQNjEKrLyPr_sUYG/view)
+- [SABBIR_BHAI](https://drive.google.com/file/d/1lf7E_sZrOhKIut_ukEyNYkJlNvAEUzH5/view?usp=sharing)
 
 - [Medium Blog](https://medium.com/techie-delight/top-7-greedy-algorithm-problems-3885feaf9430)
 
