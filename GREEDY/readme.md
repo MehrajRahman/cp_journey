@@ -1,9 +1,4 @@
-```diff
-- # GREEEDY ALGORITHM
-
-```
-
-####
+# GREEEDY ALGORITHM
 
 ### READING MATERIALS:
 
