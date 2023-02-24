@@ -1,4 +1,4 @@
-##GREEEDY ALGORITHM
+#GREEEDY ALGORITHM
 ####Don't Stop Until you crack it!!
 
 ###READING MATERIALS:
@@ -7,6 +7,7 @@
 ###VIDEO MATERIALS:
 
 ..1. [FREE_CODE_CAMP](https://www.youtube.com/watch?v=bC7o8P_Ste4)
+
 ..1. [SABBIR_BHAI](https://drive.google.com/file/d/1UFCLr2uAPhx8v6NwEQNjEKrLyPr_sUYG/view)
 
 ###PROBLEMS STORE:
