@@ -1,5 +1,5 @@
 ```diff
-# GREEEDY ALGORITHM
+- # GREEEDY ALGORITHM
 
 ```
 
